@@ -14,6 +14,7 @@ public class Main {
         Draiver.autoparkk2();
         System.out.println("  ");
         System.out.println("  ");
+        System.out.println();
       //   AutoBase4.autoparkc333();
 
 //        Scanner scanner = new Scanner(System.in);
